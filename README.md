@@ -1,4 +1,4 @@
-# <div align="center">👋 HiHi~~~~~我是 Nasir Lin </div>
+# <div align="center">👋 HiHi~~~我是 Nasir</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=20BEFF&center=true&vCenter=true&random=false&width=500&lines=國立臺北商業大學資管系技優領航專班;把繁瑣工作變自動化～;業餘攝影+與+鋼琴愛好;歡迎來到我的Github～" alt="Typing SVG" />
